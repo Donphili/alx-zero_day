@@ -1,1 +1,2 @@
-My first readme
+I AM A SOFTWARE ENGINEER
+code with GitHub
